@@ -1,2 +1,2 @@
 # project_django
-projeto para UFCD
+projeto para UFCD...
